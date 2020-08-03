@@ -1,2 +1,2 @@
 # AquaticInsects_GoldMining
-Data and Code for analyzing the effect of artisanal gold mining on aquatic insects of the Osa Peninsula, Costa Rica
+This repository contains the source code for the paper "Resilience of tropical streams affected by artisanal gold mining: a case study of aquatic insects in the Osa Peninsula, Costa Rica" by María José Monge-Salazar
